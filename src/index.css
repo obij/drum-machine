@@ -1,0 +1,58 @@
+body {
+  
+  font-family:sans-serif;
+  background-color:	#90908f; 
+}
+
+#drum-machine{
+  width: 312px;
+  height: 386px;
+  background-color: #2e2723FF;
+  margin-top: 187px;
+  margin-left: 490px;
+  border-radius: 40px;
+  border-color: yellow;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#display{
+  height: 49px;
+  width: 202px;
+  background-color: #90908f;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+
+.displayText{
+  color:#2e2723FF;
+  font-size: 20px; 
+  text-align: center;
+  margin-top: 10px;
+}
+
+#Q-sound, #W-sound, #E-sound{
+  margin-top: 30px;
+  background-color:	#90908f;
+  font-size: 15px;
+}
+
+#A-sound, #S-sound, #D-sound{
+  margin-top: 10px;
+  background-color:	#90908f
+}
+
+#Z-sound, #X-sound, #C-sound{
+  margin-top: 10px;
+  background-color:	#90908f
+}
+
+#Q-sound, #A-sound, #Z-sound{
+  margin-left: 5px;
+}
+
+#E-sound, #D-sound, #C-sound{
+  margin-right: 10px;
+  
+}
+
