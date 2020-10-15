@@ -18,6 +18,8 @@ body {
 
 #display{
   height: 49px;
+  line-height: 49px;
+  text-align: center;
   width: 202px;
   background-color: #90908f;
   margin-top: 60px;
@@ -27,6 +29,9 @@ body {
 .displayText{
   color:#2e2723FF;
   font-size: 20px; 
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
   text-align: center;
   margin-top: 10px;
 }
